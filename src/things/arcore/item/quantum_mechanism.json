@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:plain",
+  "lore": [
+    {"translate": "item.arcore.quantum_mechanism.lore", "italic": true, "color": "aqua" }
+  ],
+  "max_stack_size": 1,
+  "group": "arcore:arcore"
+}

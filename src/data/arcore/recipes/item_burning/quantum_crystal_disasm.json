@@ -1,0 +1,10 @@
+{
+    "type": "lychee:item_burning",
+    "item_in": {
+        "item": "arcore:quantum_mechanism"
+    },
+    "post": {
+        "type": "drop_item",
+        "item": "arcore:quantum_crystal"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "betterend:ender_shard"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "fluid": "create_central_kitchen:dragon_breath",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "arcore:superposition_crystal",
+      "amount": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

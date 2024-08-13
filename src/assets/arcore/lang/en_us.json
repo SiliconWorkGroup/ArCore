@@ -1,0 +1,10 @@
+{
+  "arcore.arcore": "arCore",
+  "item.arcore.quantum_crystal": "\u00A7bQuantum Crystal",
+  "item.arcore.quantum_crystal.lore": "\"Glowing,shaking with spatial...\"",
+  "item.arcore.superposition_crystal": "\u00A7c??? Crystal",
+  "item.arcore.superposition_crystal.lore": "\"Shaking hardly,generating strange energy...\"",
+  "item.arcore.quantum_mechanism": "\u00A7bQuantum mechanism",
+  "item.arcore.quantum_mechanism.lore": "\"Using power of spatial!\"",
+  "item.arcore.quantum_mechanism_semi": "\u00A7e(inComplete)Quantum mechanism"
+}

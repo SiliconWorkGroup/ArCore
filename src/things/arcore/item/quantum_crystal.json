@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:plain",
+  "fire_resistant": true,
+  "lore": [
+    {"translate": "item.arcore.quantum_crystal.lore", "italic": true, "color": "blue" }
+  ],
+  "max_stack_size": 8,
+  "group": "arcore:arcore"
+}

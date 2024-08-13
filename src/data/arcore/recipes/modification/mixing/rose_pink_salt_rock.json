@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "spelunkery:rock_salt_block"
+      },
+      {
+        "item": "spelunkery:stone_pebble"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "galosphere:rose_pink_salt"
+      }
+    ]
+  }

@@ -1,0 +1,4 @@
+tasks/publish.cps
+tasks/res/
+tasks/run.cps
+build/

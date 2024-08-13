@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "ArCore Resources",
+        "pack_format": 15,
+        "patched:has_patches": true
+    }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/conditions",
+    "value": [
+      {
+      "type": "forge:mod_loaded",
+		  "modid": "notexistplaceholder"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:plain",
+  "lore": [
+    {"translate": "item.arcore.superposition_crystal.lore", "italic": true, "color": "red" }
+  ],
+  "max_stack_size": 4,
+  "burn_duration": 8000,
+  "group": "arcore:arcore"
+}

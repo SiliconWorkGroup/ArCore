@@ -1,0 +1,12 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "arcore:superposition_crystal",
+		"count": 1
+	},
+	"result": {
+		"item": "arcore:quantum_crystal",
+		"count": 1
+	},
+	"energy": 40000
+}

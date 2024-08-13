@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:bone_block"
+      },
+      {
+        "tag": "forge:gems/quartz"
+      },
+      {
+        "tag": "forge:gems/quartz"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "minecraft:calcite"
+      }
+    ]
+  }

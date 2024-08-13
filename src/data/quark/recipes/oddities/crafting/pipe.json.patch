@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/conditions/0",
+    "value": {
+      "type": "forge:mod_loaded",
+		  "modid": "notexistplaceholder"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "galosphere:pink_salt"
+      },
+      {
+        "item": "galosphere:pastel_pink_salt"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "galosphere:rose_pink_salt"
+      }
+    ]
+  }

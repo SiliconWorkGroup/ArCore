@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "galosphere:rose_pink_salt"
+      },
+      {
+        "item": "spelunkery:cinnabar_shard"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "galosphere:pink_salt"
+      }
+    ]
+  }

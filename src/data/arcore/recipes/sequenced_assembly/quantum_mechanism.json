@@ -1,0 +1,112 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "create:precision_mechanism"
+    },
+    "loops": 2,
+    "results": [
+      {
+        "item": "arcore:quantum_mechanism"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          },
+          {
+            "amount": 1000,
+            "fluid": "spelunkery:portal_fluid",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          },
+          {
+            "item": "betterend:aeternium_forged_plate"
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          },
+          {
+            "item": "create:polished_rose_quartz"
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          },
+          {
+            "item": "arcore:quantum_crystal"
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          },
+          {
+            "item": "create:electron_tube"
+          }
+        ],
+        "results": [
+          {
+            "item": "arcore:quantum_mechanism_semi"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "arcore:quantum_mechanism_semi"
+    }
+  }
