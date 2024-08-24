@@ -1,0 +1,39 @@
+{
+    "type": "flowing",
+    "fluid_type": {
+      "still_texture": "minecraft:block/water_still",
+      "flowing_texture": "minecraft:block/water_flow",
+      "side_texture": "minecraft:block/water_overlay",
+      "rarity": "uncommon",
+      "color": [0,225,255],
+      "density": 100,
+      "luminosity": 0,
+      "temperature": 100,
+      "viscosity": 100,
+      "gaseous": false,
+    
+      "motion_scale": 1.0,
+      "fall_distance_modifier": 1.0,
+    
+      "can_push_entity": false,
+      "can_swim": true,
+      "can_drown": true,
+      "can_extinguish": true,
+      "can_hydrate": false,
+      "can_convert_to_source": false,
+      "supports_boating": false
+    },
+    "bucket": true,
+    "item": {
+      "type": "minecraft:plain",
+      "max_stack_size": 1,
+      "group": "arcore:arcore"
+    },
+
+    "block": true,
+    "can_convert_to_source": false,
+    "slope_distance": 2,
+    "dropoff": 4,
+    "tick_delay": 10,
+    "explosion_resistance": 100
+  }

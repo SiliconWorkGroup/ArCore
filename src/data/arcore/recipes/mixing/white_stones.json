@@ -1,0 +1,64 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "item": "spelunkery:end_stone_pebble"
+    },
+    {
+      "fluid": "arcore:grinding_gel",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "arcore:white_stones",
+      "amount": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,64 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "item": "spelunkery:blackstone_pebble"
+    },
+    {
+      "fluid": "arcore:grinding_gel",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "arcore:black_stones",
+      "amount": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "alexscaves:ferrouslime_ball"
+      },
+      {
+        "fluid": "arcore:grinding_gel",
+        "amount": 250
+      }
+    ],
+    "results": [
+        {
+            "fluid": "arcore:grinding_paste",
+            "amount": 250
+        }
+    ],
+    "heatRequirement": "heated"
+  }

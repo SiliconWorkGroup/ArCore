@@ -6,5 +6,7 @@
   "item.arcore.superposition_crystal.lore": "\"Shaking hardly,generating strange energy...\"",
   "item.arcore.quantum_mechanism": "\u00A7bQuantum mechanism",
   "item.arcore.quantum_mechanism.lore": "\"Using power of spatial!\"",
-  "item.arcore.quantum_mechanism_semi": "\u00A7e(inComplete)Quantum mechanism"
+  "item.arcore.quantum_mechanism_semi": "\u00A7e(incomplete)Quantum mechanism",
+  "item.arcore.black_stones": "Black Stones",
+  "item.arcore.white_stones": "White Stones"
 }

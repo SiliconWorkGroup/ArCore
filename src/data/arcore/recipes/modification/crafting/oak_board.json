@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " I ",
+      "WbB "
+    ],
+    "key": {
+      "B": {
+        "item": "arcore:black_stones"
+      },
+      "W": {
+        "item": "arcore:white_stones"
+      },
+      "b": {
+        "item": "farmersdelight:cutting_board"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    "result": {
+      "item": "wuziqi:oak_board",
+      "count": 1
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "plain",
+    "fluid_type": {
+      "still_texture": "create_things_and_misc:block/slime_still",
+      "flowing_texture": "create_things_and_misc:block/slime_flow",
+      "side_texture": "create_things_and_misc:block/slime_flow",
+      "rarity": "uncommon",
+      "color": [0,100,255],
+      "density": 100,
+      "luminosity": 0,
+      "temperature": 100,
+      "viscosity": 100,
+      "gaseous": false
+    },
+    "bucket": false
+  }

@@ -1,4 +1,6 @@
-tasks/publish.cps
+#Private zone
 tasks/res/
+tasks/publish.cps
 tasks/run.cps
+#Artifacts
 build/

@@ -6,5 +6,7 @@
   "item.arcore.superposition_crystal.lore": "\"剧烈地颤动,散发出不安的能量\"",
   "item.arcore.quantum_mechanism": "\u00A7b量子构件",
   "item.arcore.quantum_mechanism.lore": "\"掌控空间力量!\"",
-  "item.arcore.quantum_mechanism_semi": "\u00A7e(未完成)量子构件"
+  "item.arcore.quantum_mechanism_semi": "\u00A7e(未完成)量子构件",
+  "item.arcore.black_stones": "黑色棋子",
+  "item.arcore.white_stones": "白色棋子"
 }

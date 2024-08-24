@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "createaddition:diamond_grit_sandpaper"
+      },
+      {
+        "fluid": "arcore:grinding_paste",
+        "amount": 100
+      }
+    ],
+    "results": [
+      {
+        "item": "createaddition:diamond_grit_sandpaper"
+      }
+    ]
+  }

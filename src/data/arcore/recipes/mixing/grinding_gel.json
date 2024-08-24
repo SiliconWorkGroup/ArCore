@@ -1,0 +1,37 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "createaddition:diamond_grit"
+      },
+      {
+        "item": "create:powdered_obsidian"
+      },
+      {
+        "item": "create:powdered_obsidian"
+      },
+      {
+        "fluid": "create_things_and_misc:slime",
+        "amount": 250
+      }
+    ],
+    "results": [
+        {
+            "fluid": "arcore:grinding_gel",
+            "amount": 250
+        }
+    ],
+    "heatRequirement": "heated"
+  }
