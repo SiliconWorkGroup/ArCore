@@ -8,5 +8,8 @@
   "item.arcore.quantum_mechanism.lore": "\"掌控空间力量!\"",
   "item.arcore.quantum_mechanism_semi": "\u00A7e(未完成)量子构件",
   "item.arcore.black_stones": "黑色棋子",
-  "item.arcore.white_stones": "白色棋子"
+  "item.arcore.white_stones": "白色棋子",
+  "fluid_type.arcore.grinding_paste": "研磨膏",
+  "fluid_type.arcore.grinding_gel": "研磨凝胶",
+  "item.arcore.grinding_gel_bucket": "研磨凝胶桶"
 }

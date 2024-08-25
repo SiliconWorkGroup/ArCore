@@ -8,5 +8,8 @@
   "item.arcore.quantum_mechanism.lore": "\"Using power of spatial!\"",
   "item.arcore.quantum_mechanism_semi": "\u00A7e(incomplete)Quantum mechanism",
   "item.arcore.black_stones": "Black Stones",
-  "item.arcore.white_stones": "White Stones"
+  "item.arcore.white_stones": "White Stones",
+  "fluid_type.arcore.grinding_paste": "Grinding Paste",
+  "fluid_type.arcore.grinding_gel": "Grinding Gel",
+  "item.arcore.grinding_gel_bucket": "Bucket of Grinding Gel"
 }
