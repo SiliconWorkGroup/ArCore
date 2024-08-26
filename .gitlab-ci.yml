@@ -4,9 +4,8 @@ stages:
   - build
 
 before_script:
-  - apt search icu-libs
   - chmod +x cpwrapper
-
+  - env DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1
 build:
   stage: build
   script:
