@@ -4,7 +4,7 @@ stages:
   - build
 
 before_script:
-  - apt search libicu
+  - apt search icu-libs
   - chmod +x cpwrapper
 
 build:
