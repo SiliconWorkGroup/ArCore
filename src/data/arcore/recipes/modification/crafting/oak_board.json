@@ -1,7 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      " I ",
       "WbB "
     ],
     "key": {
@@ -13,9 +12,6 @@
       },
       "b": {
         "item": "farmersdelight:cutting_board"
-      },
-      "I": {
-        "item": "minecraft:ink_sac"
       }
     },
     "result": {

@@ -1,0 +1,16 @@
+image: alpine:latest
+
+stages:
+  - build
+
+before_script:
+  - chmod 777 cpwrapper
+
+build:
+  stage: build
+  script:
+    ./cpwrapper build
+  artifacts:
+    paths:
+      - build/
+    expire_in: 1 week
