@@ -4,6 +4,7 @@ stages:
   - build
 
 before_script:
+  - apt install libicu70
   - chmod +x cpwrapper
 
 build:
