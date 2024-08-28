@@ -35,22 +35,6 @@
             "item": "arcore:quantum_mechanism_semi"
           },
           {
-            "item": "betterend:aeternium_forged_plate"
-          }
-        ],
-        "results": [
-          {
-            "item": "arcore:quantum_mechanism_semi"
-          }
-        ]
-      },
-      {
-        "type": "create:deploying",
-        "ingredients": [
-          {
-            "item": "arcore:quantum_mechanism_semi"
-          },
-          {
             "item": "create:polished_rose_quartz"
           }
         ],
