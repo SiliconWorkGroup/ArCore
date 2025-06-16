@@ -1,0 +1,6 @@
+{
+  "ProjectName": "ArCore",
+  "RootPath": "./src/",
+  "OutPath": "./build/",
+  "DefaultEnvVars": {}
+}

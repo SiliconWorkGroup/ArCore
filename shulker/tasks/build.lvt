@@ -1,0 +1,7 @@
+echo "=====&3Build - %project.name%&r====="
+import shulker.magick
+makeCopy .*\.psd
+psdCvt
+pkgr zip make "%project.cache%" "%project.output%%project.name%.jar"
+makeCleanup
+echo "&aBUILD SUCCEED!"

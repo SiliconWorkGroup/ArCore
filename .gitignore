@@ -1,6 +1,4 @@
-#Private zone
-tasks/res/
-tasks/publish.cps
-tasks/run.cps
+#Local contents
+shulker/local/
 #Artifacts
 build/
